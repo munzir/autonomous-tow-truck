@@ -9,7 +9,7 @@
 1. Clone the repository:
     ```sh
     git clone https://github.com/muzir/autonomous-tow-truck.git
-    cd autonomous-tow-truck
+    cd autonomous-tow-truckk
     ```
 
 2. Install the required dependencies:
